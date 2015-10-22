@@ -8,8 +8,6 @@
 #include <iostream>
 #include <string>
 #include <multiprecision\cpp_int.hpp>
-
-
 bool isint(std::string placeholder);
 boost::multiprecision::uint1024_t reverse(boost::multiprecision::uint1024_t num);
 
