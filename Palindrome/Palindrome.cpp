@@ -1,13 +1,15 @@
 /********************************************
-*Program Name: Palindrome					*
+*Program Name: Palindrome                   *
 *Programming Language: C++                  *
 *Author: José I. Escudero                   *
 *E-mail: joseignacioescudero97@hotmail.com  *
 ********************************************/
+
 #include "stdafx.h"
 #include <iostream>
 #include <string>
 #include <multiprecision\cpp_int.hpp>
+
 bool isint(std::string placeholder);
 boost::multiprecision::uint1024_t reverse(boost::multiprecision::uint1024_t num);
 
