@@ -13,3 +13,4 @@ Is 55 = 55? yes. then it is Palindrome.
 # Note
 If an infinite loop is produced is due to the number provided being a [Lychrel Number](https://en.wikipedia.org/wiki/Lychrel_number)
 
+![alt tag](http://josescudero.com/assets/images/projects/palindrome.png)
